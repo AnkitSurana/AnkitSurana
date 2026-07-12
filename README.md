@@ -1,9 +1,15 @@
 ### Hi, I'm Ankit 👋
 
-I'm a software developer who enjoys building complete products end-to-end — backend APIs, browser extensions, mobile apps, computer vision tools, and machine learning models. I like working on practical projects that solve real problems, from waste sorting for households to fraud detection in transactions.
+I'm a data engineering leader working on cloud-native, real-time data platforms, and someone who still loves getting hands-on with code through personal projects on the side.
+
+#### 💼 What I do
+
+I architect real-time, high-throughput data pipelines that turn raw data into fast, reliable decisions, built on AWS and Kafka. My focus has increasingly shifted toward Generative AI — building RAG pipelines, LLMOps workflows, and agentic AI features that ship in production for large-scale users. I'm an AWS Certified Solutions Architect – Associate, and completed a postgraduate specialization in Machine Learning & AI at IIIT Bangalore.
 
 #### 🛠️ Tech I work with
 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -13,7 +19,7 @@ I'm a software developer who enjoys building complete products end-to-end — ba
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-#### 🚀 Some things I've built
+#### 🚀 Side projects I build for fun
 
 **[skopelabs](https://github.com/AnkitSurana/skopelabs)** — An explainable computer vision engine that scans video and live camera feeds for reference images, using classical techniques like ORB feature matching and RANSAC rather than black-box models.
 
@@ -37,3 +43,7 @@ I'm a software developer who enjoys building complete products end-to-end — ba
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitSurana&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSurana&layout=compact&theme=dark)
+
+#### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ankitsurana002/)
