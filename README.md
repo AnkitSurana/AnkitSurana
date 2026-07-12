@@ -18,7 +18,7 @@
 
 #### 🚀 About Me
 
-Data engineering leader with 10+ years architecting cloud-native data platforms and AI-driven products, including hands-on international (UK) experience. I've built high-throughput, serverless real-time systems processing 500M+ transactions daily at sub-5-second latency, and shipped generative AI / RAG systems that turn unstructured data into actionable insight. I'm an AWS Certified Solutions Architect – Associate, with a postgraduate specialization in Machine Learning & AI from IIIT Bangalore. I care about clean architecture, measurable impact, and the kind of fast, focused engineering that startups and product-led teams depend on.
+Data engineering leader with 10+ years building cloud-native data platforms and AI-driven products, including hands-on international (UK) experience. Day to day, I design event-driven, serverless pipelines on AWS (Lambda, Kafka, Redshift) that process 500M+ transactions daily at sub-5-second latency, and I build generative AI / RAG systems that turn unstructured data into decisions people can actually act on. I've led migrations that cut processing time by 30%, and I work across the full stack: cloud architecture, data modelling, fraud and risk analytics, predictive modelling, and translating technical work into outcomes stakeholders care about. Outside client work, I design and ship independent products end to end, computer vision tools, LLM-powered apps, and on-device AI, from idea to a live deployed demo. I'm an AWS Certified Solutions Architect (Associate). I care about clean architecture, measurable impact, and the kind of fast, focused engineering that startups and product-led teams depend on.
 
 <details>
 <summary>💡 What I'm looking for</summary>
@@ -27,6 +27,13 @@ Data engineering leader with 10+ years architecting cloud-native data platforms 
 I'm looking to join a startup or product engineering team, hands-on IC or technical-lead roles, not product management, where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
 
 </details>
+<br/>
+
+#### 🎓 Education
+
+- **Master's Degree**, Liverpool John Moores University (LJMU), UK
+- **Executive Post Graduate Programme (EPGP) in Machine Learning & AI**, IIIT Bangalore
+
 <br/>
 
 <div align="center">
@@ -51,7 +58,7 @@ I'm looking to join a startup or product engineering team, hands-on IC or techni
 
 #### 🧩 Skills in Action
 
-Where my day-to-day expertise shows up in code you can actually run:
+Where my day-to-day expertise shows up in code you can actually run, mapped from real-time systems and ML work to the projects that demonstrate them:
 
 | Expertise | Demonstrated In | Core Tech |
 |---|---|---|
@@ -96,7 +103,7 @@ Explainable computer vision engine for scanning video and live camera feeds agai
 <tr>
 <td width="50%" valign="top">
 
-**📄 Applyin — Resume Intelligence API**
+**📄 Applyin: Resume Intelligence API**
 
 FastAPI backend that scores a resume against a job description and returns a match score, skill gaps, resume rewrites, and an interview guide.
 
@@ -170,9 +177,9 @@ A warm, conversational AI companion experience with a custom persona, powered by
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating through Ankit's GitHub contribution graph" src="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake.svg" width="100%"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake.svg" />
+<img alt="A snake eating through Ankit's GitHub contribution graph" src="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 <br/><br/>
