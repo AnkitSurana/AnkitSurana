@@ -3,46 +3,147 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hi,%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/AnkitSurana">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Engineering+Leader;Cloud-Native+%26+Real-Time+Data+Architect;Building+with+AI%2C+ML+%26+Generative+AI;AWS+%7C+Kafka+%7C+LLMOps+%7C+RAG+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Data+%2B+AI+Engineer;Real-Time+Pipelines+%7C+GenAI+Products;Building+Agentic+AI+Systems;Open+to+Startup+%26+Product+Roles" alt="Typing SVG" />
 </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsurana002/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsurana002@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open_to-Startup_%26_Product_Roles-22c55e?style=for-the-badge)](https://www.linkedin.com/in/ankitsurana002/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitSurana&color=6366f1&style=flat-square&label=Profile+Views)
 
 </div>
 
-#### 💼 What I do
+---
 
-I architect real-time, high-throughput data pipelines that turn raw data into fast, reliable decisions, built on AWS and Kafka. My focus has increasingly shifted toward Generative AI, building RAG pipelines, LLMOps workflows, and agentic AI features that ship in production for large-scale users. I'm an AWS Certified Solutions Architect – Associate, and completed a postgraduate specialization in Machine Learning & AI at IIIT Bangalore.
+#### 🚀 About Me
+
+I design and ship systems that turn raw data into fast, reliable decisions: real-time pipelines on AWS and Kafka, and increasingly, agentic AI products powered by RAG and LLMOps. I'm an AWS Certified Solutions Architect – Associate, and completed a postgraduate specialization in Machine Learning & AI at IIIT Bangalore. I care about clean architecture, measurable impact, and shipping fast, the kind of engineering that startups and product-led teams depend on.
+
+<details>
+<summary>💡 What I'm looking for</summary>
+<br/>
+
+I'm looking to join a startup or product company where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
+
+</details>
+<br/>
 
 <div align="center">
 
 #### 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=aws,kafka,python,django,js,ts,flutter,dart,opencv)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
-#### 🚀 Side projects I build for fun
+#### 🧪 Featured Projects
 
 <table>
 <tr>
-<td colspan="2" align="center"><a href="https://github.com/AnkitSurana/waste-classifier"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=waste-classifier&theme=dark" /></a><br/>AI powered waste sorting guide built with GPT-4o vision, shipped live for an LJMU sustainability hackathon.<br/><a href="https://ljmu-waste-classifier.netlify.app">Live Demo</a></td>
+<td width="50%" valign="top">
+
+**🗑️ AI Waste Sorting Guide**
+
+Real-time waste classification using GPT-4o vision, shipped live for an LJMU sustainability hackathon (SDG 11 & 12).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GPT--4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/waste-classifier) · [Live Demo](https://ljmu-waste-classifier.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 SkopeLabs**
+
+Explainable computer vision engine for scanning video and live camera feeds against reference images using classical feature matching (ORB/RANSAC).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/skopelabs) · [Live Demo](https://skopelabs.netlify.app)
+
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/AnkitSurana/sutham-app"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=sutham-app&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/collabdocs"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=collabdocs&theme=dark" /></a></td>
+<td width="50%" valign="top">
+
+**📄 Applyin — Resume Intelligence API**
+
+FastAPI backend that scores a resume against a job description and returns a match score, skill gaps, resume rewrites, and an interview guide.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/applyin-backend)
+
+</td>
+<td width="50%" valign="top">
+
+**📁 CollabDocs**
+
+Backend API for creating workspaces, collaborating on documents in real time, and managing granular team permissions.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/collabdocs)
+
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/AnkitSurana/devtrack"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=devtrack&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/eventhub"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=eventhub&theme=dark" /></a></td>
+<td width="50%" valign="top">
+
+**🩺 Melanoma Detection with CNNs**
+
+Custom convolutional neural network trained on the ISIC dataset to classify skin lesion images and detect melanoma across nine skin condition classes.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/AnkitSurana-Melanoma-Detection-Using-CNN)
+
+</td>
+<td width="50%" valign="top">
+
+**💳 Credit Card Fraud Detection**
+
+End-to-end ML pipeline for detecting fraudulent transactions: EDA, class-imbalance handling with SMOTE, and model comparison across several classifiers.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/Credit-Card-Fraud-Detection)
+
+</td>
 </tr>
 <tr>
-<td><a href="https://github.com/AnkitSurana/applyin-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=applyin-backend&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/AnkitSurana-Melanoma-Detection-Using-CNN"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=AnkitSurana-Melanoma-Detection-Using-CNN&theme=dark" /></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/AnkitSurana/Credit-Card-Fraud-Detection"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=Credit-Card-Fraud-Detection&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/BoomBikesSharing"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=BoomBikesSharing&theme=dark" /></a></td>
+<td width="50%" valign="top">
+
+**♻️ Sutham**
+
+On-device AI app that helps households sort waste correctly in any language, fully offline, warning users about e-waste and hazardous items before they toss them.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**💬 AI Companion Chat**
+
+A warm, conversational AI companion experience with a custom persona, powered by an LLM backend deployed as serverless functions.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+
+[Live Demo](https://unwritten-forever-us.netlify.app)
+
+</td>
 </tr>
 </table>
 
@@ -53,8 +154,6 @@ I architect real-time, high-throughput data pipelines that turn raw data into fa
 <img src="https://github-stats-extended.vercel.app/api?username=AnkitSurana&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSurana&theme=dark&hide_border=true" height="165"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnkitSurana&layout=compact&theme=dark&hide_border=true" height="165"/>
-
 </div>
 
 #### 📈 Contribution Graph
@@ -63,9 +162,11 @@ I architect real-time, high-throughput data pipelines that turn raw data into fa
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSurana&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
-#### 📫 Connect
+#### 📫 Let's Connect
 
 <div align="center">
+
+I share the fuller picture of my experience and background on LinkedIn, that's the best place to reach me.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsurana002/)
 
