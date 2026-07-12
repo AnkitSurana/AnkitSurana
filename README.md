@@ -165,19 +165,20 @@ A warm, conversational AI companion experience with a custom persona, powered by
 </tr>
 </table>
 
-#### 📊 GitHub Stats
+#### 🐍 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=AnkitSurana&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSurana&theme=dark&hide_border=true" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through Ankit's GitHub contribution graph" src="https://raw.githubusercontent.com/AnkitSurana/AnkitSurana/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-</div>
+<br/><br/>
 
-#### 📈 Contribution Graph
+<img src="https://streak-stats.demolab.com/?user=AnkitSurana&theme=dark&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=22C55E&currStreakLabel=6366F1" height="165"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkitSurana&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 #### 📫 Let's Connect
