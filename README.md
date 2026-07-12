@@ -26,20 +26,20 @@ I architect real-time, high-throughput data pipelines that turn raw data into fa
 
 <table>
 <tr>
-<td><a href="https://github.com/AnkitSurana/skopelabs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=skopelabs&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/sutham-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=sutham-app&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/sutham-app"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=sutham-app&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/collabdocs"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=collabdocs&theme=dark" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/AnkitSurana/collabdocs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=collabdocs&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/devtrack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=devtrack&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/devtrack"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=devtrack&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/eventhub"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=eventhub&theme=dark" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/AnkitSurana/eventhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=eventhub&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/applyin-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=applyin-backend&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/applyin-backend"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=applyin-backend&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/AnkitSurana-Melanoma-Detection-Using-CNN"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=AnkitSurana-Melanoma-Detection-Using-CNN&theme=dark" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/AnkitSurana/AnkitSurana-Melanoma-Detection-Using-CNN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=AnkitSurana-Melanoma-Detection-Using-CNN&theme=dark" /></a></td>
-<td><a href="https://github.com/AnkitSurana/Credit-Card-Fraud-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnkitSurana&repo=Credit-Card-Fraud-Detection&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/Credit-Card-Fraud-Detection"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=Credit-Card-Fraud-Detection&theme=dark" /></a></td>
+<td><a href="https://github.com/AnkitSurana/BoomBikesSharing"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=BoomBikesSharing&theme=dark" /></a></td>
 </tr>
 </table>
 
@@ -47,17 +47,11 @@ I architect real-time, high-throughput data pipelines that turn raw data into fa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnkitSurana&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=AnkitSurana&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSurana&theme=dark&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSurana&layout=compact&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnkitSurana&layout=compact&theme=dark&hide_border=true" height="165"/>
 
-</div>
-
-#### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnkitSurana&theme=darkhub&no-frame=true&row=1&column=7" />
 </div>
 
 #### 📈 Contribution Graph
