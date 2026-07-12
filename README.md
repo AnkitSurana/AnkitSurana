@@ -12,7 +12,7 @@
 
 #### 💼 What I do
 
-I architect real-time, high-throughput data pipelines that turn raw data into fast, reliable decisions, built on AWS and Kafka. My focus has increasingly shifted toward Generative AI — building RAG pipelines, LLMOps workflows, and agentic AI features that ship in production for large-scale users. I'm an AWS Certified Solutions Architect – Associate, and completed a postgraduate specialization in Machine Learning & AI at IIIT Bangalore.
+I architect real-time, high-throughput data pipelines that turn raw data into fast, reliable decisions, built on AWS and Kafka. My focus has increasingly shifted toward Generative AI, building RAG pipelines, LLMOps workflows, and agentic AI features that ship in production for large-scale users. I'm an AWS Certified Solutions Architect – Associate, and completed a postgraduate specialization in Machine Learning & AI at IIIT Bangalore.
 
 <div align="center">
 
@@ -25,6 +25,9 @@ I architect real-time, high-throughput data pipelines that turn raw data into fa
 #### 🚀 Side projects I build for fun
 
 <table>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/AnkitSurana/waste-classifier"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=waste-classifier&theme=dark" /></a><br/>AI powered waste sorting guide built with GPT-4o vision, shipped live for an LJMU sustainability hackathon.<br/><a href="https://ljmu-waste-classifier.netlify.app">Live Demo</a></td>
+</tr>
 <tr>
 <td><a href="https://github.com/AnkitSurana/sutham-app"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=sutham-app&theme=dark" /></a></td>
 <td><a href="https://github.com/AnkitSurana/collabdocs"><img src="https://github-stats-extended.vercel.app/api/pin/?username=AnkitSurana&repo=collabdocs&theme=dark" /></a></td>
