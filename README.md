@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hi,%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/AnkitSurana">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Data+%2B+AI+Engineer;Real-Time+Pipelines+%7C+GenAI+Products;Building+Agentic+AI+Systems;Open+to+Startup+%26+Product+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Data+%2B+AI+Engineer+%7C+10%2B+Years;Real-Time+Pipelines+%7C+GenAI+%2F+RAG+Products;Building+Agentic+AI+Systems;Open+to+Engineering+Roles+%40+Startups+%26+Product+Cos" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsurana002/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsurana002@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open_to-Startup_%26_Product_Roles-22c55e?style=for-the-badge)](https://www.linkedin.com/in/ankitsurana002/)
+[![Open to Work](https://img.shields.io/badge/Open_to-Startup_%26_Product_Engineering_Roles-22c55e?style=for-the-badge)](https://www.linkedin.com/in/ankitsurana002/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitSurana&color=6366f1&style=flat-square&label=Profile+Views)
 
@@ -18,13 +18,13 @@
 
 #### 🚀 About Me
 
-I design and ship systems that turn raw data into fast, reliable decisions: real-time pipelines on AWS and Kafka, and increasingly, agentic AI products powered by RAG and LLMOps. I'm an AWS Certified Solutions Architect – Associate, and completed a postgraduate specialization in Machine Learning & AI at IIIT Bangalore. I care about clean architecture, measurable impact, and shipping fast, the kind of engineering that startups and product-led teams depend on.
+Data engineering leader with 10+ years architecting cloud-native data platforms and AI-driven products, including hands-on international (UK) experience. I've built high-throughput, serverless real-time systems processing 500M+ transactions daily at sub-5-second latency, and shipped generative AI / RAG systems that turn unstructured data into actionable insight. I'm an AWS Certified Solutions Architect – Associate, with a postgraduate specialization in Machine Learning & AI from IIIT Bangalore. I care about clean architecture, measurable impact, and the kind of fast, focused engineering that startups and product-led teams depend on.
 
 <details>
 <summary>💡 What I'm looking for</summary>
 <br/>
 
-I'm looking to join a startup or product company where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
+I'm looking to join a startup or product engineering team, hands-on IC or technical-lead roles, not product management, where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
 
 </details>
 <br/>
@@ -35,6 +35,7 @@ I'm looking to join a startup or product company where I can own systems end-to-
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -48,11 +49,26 @@ I'm looking to join a startup or product company where I can own systems end-to-
 
 </div>
 
+#### 🧩 Skills in Action
+
+Where my day-to-day expertise shows up in code you can actually run:
+
+| Expertise | Demonstrated In | Core Tech |
+|---|---|---|
+| Real-time processing & computer vision | SkopeLabs | Python, OpenCV, ORB/RANSAC |
+| Generative AI, LLMs & RAG | AI Waste Sorting Guide, Applyin, AI Companion Chat | OpenAI API, FastAPI |
+| Fraud detection & risk analytics | Credit Card Fraud Detection | scikit-learn, SMOTE |
+| Predictive modelling & data science | Melanoma Detection with CNNs | TensorFlow, CNNs |
+| Scalable backend & data pipelines | CollabDocs | Django, PostgreSQL |
+| On-device / edge AI | Sutham | Flutter, TFLite |
+
 #### 🧪 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/fe145d60-c2f2-4915-97ea-d0ff905991c4" width="100%"/>
 
 **🗑️ AI Waste Sorting Guide**
 
@@ -64,6 +80,8 @@ Real-time waste classification using GPT-4o vision, shipped live for an LJMU sus
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://github.com/user-attachments/assets/e7c04321-2118-465b-bccf-76c649264734" width="100%"/>
 
 **🔍 SkopeLabs**
 
