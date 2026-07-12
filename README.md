@@ -24,7 +24,7 @@ Data engineering leader with 10+ years building cloud-native data platforms and 
 <summary>💡 What I'm looking for</summary>
 <br/>
 
-I'm looking to join a startup or product engineering team, hands-on IC or technical-lead roles, not product management, where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
+I'm looking to join a startup or product engineering team in a hands-on IC or technical-lead role, where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
 
 </details>
 <br/>
