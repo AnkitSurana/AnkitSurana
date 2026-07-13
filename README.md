@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Hi,%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/AnkitSurana">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Data+%2B+AI+Engineer+%7C+10%2B+Years;Real-Time+Pipelines+%7C+GenAI+%2F+RAG+Products;Building+Agentic+AI+Systems;Open+to+Engineering+Roles+%40+Startups+%26+Product+Cos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Data+%2B+AI+Engineer+%7C+10%2B+Years;Real-Time+Pipelines+%7C+GenAI+%26+RAG+Systems;Building+Agentic+AI+Systems;Open+to+Senior+Engineering+Roles" alt="Typing SVG" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsurana002/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsurana002@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open_to-Startup_%26_Product_Engineering_Roles-22c55e?style=for-the-badge)](https://www.linkedin.com/in/ankitsurana002/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsurana002/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsurana002@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open_to-Senior_SWE_%2F_Data_Eng_%2F_Data_Science_Roles-22c55e?style=for-the-badge)](https://www.linkedin.com/in/ankitsurana002/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnkitSurana&color=6366f1&style=flat-square&label=Profile+Views)
 
@@ -18,21 +18,36 @@
 
 #### 🚀 About Me
 
-Data engineering leader with 10+ years building cloud-native data platforms and AI-driven products, including hands-on international (UK) experience. Day to day, I design event-driven, serverless pipelines on AWS (Lambda, Kafka, Redshift) that process 500M+ transactions daily at sub-5-second latency, and I build generative AI / RAG systems that turn unstructured data into decisions people can actually act on. I've led migrations that cut processing time by 30%, and I work across the full stack: cloud architecture, data modelling, fraud and risk analytics, predictive modelling, and translating technical work into outcomes stakeholders care about. Outside client work, I design and ship independent products end to end, computer vision tools, LLM-powered apps, and on-device AI, from idea to a live deployed demo. I'm an AWS Certified Solutions Architect (Associate). I care about clean architecture, measurable impact, and the kind of fast, focused engineering that startups and product-led teams depend on.
+I'm a data/ML engineer with 10+ years building cloud-native data platforms and AI-driven products, including hands-on international (UK) experience. I design event-driven, serverless pipelines on AWS (Lambda, Kafka, Redshift) that process 500M+ transactions daily at sub-5-second latency, and I build generative AI/RAG systems that turn unstructured data into decisions people can act on. I've led migrations that cut processing time by 30%, and I work across the full stack: cloud architecture, data modelling, fraud and risk analytics, and predictive modelling. Outside client work, I design and ship independent products end to end, computer vision tools, LLM-powered apps, and on-device AI, from idea to a live deployed demo. I'm an AWS Certified Solutions Architect (Associate), and I'm looking for a senior software engineering, data engineering, or data science role where I can bring deep technical ownership to systems that scale.
 
-<details>
-<summary>💡 What I'm looking for</summary>
 <br/>
 
-I'm looking to join a startup or product engineering team in a hands-on IC or technical-lead role, where I can own systems end-to-end, ship fast, and build AI-native products that real users depend on. My <a href="https://www.linkedin.com/in/ankitsurana002/">LinkedIn</a> has the full story on my background, drop me a message there!
+#### 🏆 Certifications & Recognition
 
-</details>
+- AWS Certified Solutions Architect (Associate)
+- AI Workshop Series certification, IISc Bangalore (via Aylence)
+- Selected participant, Google DeepMind Hackathon 2026 (1 of 250 selected from 4,000+ applicants) — built Sutham, an on-device multimodal waste-sorting AI assistant, solo, in 6.5 hours
+- Winner, LJMU Group Project — led "Cash In Loop" from concept to a working POC in 3 days
+
 <br/>
 
-#### 🎓 Education
+#### 📊 Impact Highlights
 
-- **Master's Degree**, Liverpool John Moores University (LJMU), UK
-- **Executive Post Graduate Programme (EPGP) in Machine Learning & AI**, IIIT Bangalore
+- Real-time pipelines: 500M+ transactions/day at sub-5-second latency
+- Pipeline migrations: cut processing time by 30%
+- Independent AI products: 3 shipped end-to-end with live demos (Sutham, Applyin, SkopeLabs)
+- Rapid prototyping: built a full multimodal AI agent solo in 6.5 hours at a national hackathon
+
+<br/>
+
+#### 🎯 Goals for 2026
+
+- 🚀 Grow Sutham, Applyin, and SkopeLabs from demos into products with real users
+- 🧠 Deepen expertise in agentic systems, RAG, and large-scale ML deployment
+- 📐 Sharpen DSA and algorithms for senior technical interviews
+- 🌍 Build a public open-source track record (merged PRs, discussions, stars)
+- 🏢 Land a senior software/data engineering or data science role on a high-impact team
+- ✍️ Share build-in-public write-ups from hackathons and independent projects
 
 <br/>
 
@@ -46,13 +61,15 @@ I'm looking to join a startup or product engineering team in a hands-on IC or te
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**📚 Currently Learning**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -192,9 +209,7 @@ A warm, conversational AI companion experience with a custom persona, powered by
 
 <div align="center">
 
-I share the fuller picture of my experience and background on LinkedIn, that's the best place to reach me.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitsurana002/)
+I share the fuller picture of my experience and background on LinkedIn, that's the best place to reach me — see the LinkedIn badge above.
 
 </div>
 
