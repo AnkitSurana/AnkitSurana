@@ -187,6 +187,19 @@ A warm, conversational AI companion experience with a custom persona, powered by
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top">
+
+**📈 Stocker**
+
+MCP server for NSE (Indian stock market) research in Claude, screening, quotes, peer comparison, watchlists, and price/P/E alerts, powered by free Yahoo Finance data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[Code](https://github.com/AnkitSurana/stocker)
+
+</td>
+</tr>
 </table>
 
 #### 🐍 GitHub Activity
