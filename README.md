@@ -188,7 +188,7 @@ A warm, conversational AI companion experience with a custom persona, powered by
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td colspan="2" valign="top">
 
 **📈 Stocker**
 
