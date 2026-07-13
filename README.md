@@ -174,6 +174,8 @@ On-device AI app that helps households sort waste correctly in any language, ful
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
+[Code](https://github.com/AnkitSurana/sutham-app)
+
 </td>
 <td width="50%" valign="top">
 
