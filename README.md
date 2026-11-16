@@ -37,7 +37,7 @@ I'm an AVP Data Engineer at NatWest in Bengaluru, working on the infrastructure 
 
 **🛒 Agent on a Budget**
 
-An AI support agent that gets 10× cheaper by letting a small ML model and a local LLM answer the easy questions, so the frontier model only sees the hard ones.
+An AI support agent where a small ML model and a local LLM answer the easy questions and the frontier model only sees the hard ones: 1.9× cheaper and 1.6× faster in tests.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
